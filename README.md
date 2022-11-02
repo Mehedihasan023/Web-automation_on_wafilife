@@ -2,7 +2,7 @@
 ### Tested steps are:-
 1.      Visit this site
 2.      Click  লেখক from the menu
-3.      Scroll Down and go to the Next Page
+3.      Go to the Next Page
 4.      Select any Author
 5.      View any Book Details
 6.      Click অর্ডার করুন
