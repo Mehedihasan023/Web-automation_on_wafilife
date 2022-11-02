@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="20" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-02T21:03:56 BDT" name="Suite" finished-at="2022-11-02T21:05:04 BDT" duration-ms="68000">
+    <groups>
+    </groups>
+    <test started-at="2022-11-02T21:03:56 BDT" name="Test" finished-at="2022-11-02T21:05:04 BDT" duration-ms="68000">
+      <class name="tests.ProvideInformations">
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:04:49 BDT" name="startUrl" finished-at="2022-11-02T21:04:49 BDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="clickOnCheckbox()[pri:0, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:04:49 BDT" name="clickOnCheckbox" finished-at="2022-11-02T21:04:50 BDT" duration-ms="1122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCheckbox -->
+        <test-method signature="fillPassword()[pri:1, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:04:50 BDT" name="fillPassword" finished-at="2022-11-02T21:04:51 BDT" duration-ms="1221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillPassword -->
+        <test-method signature="fillName()[pri:2, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:04:51 BDT" name="fillName" finished-at="2022-11-02T21:04:52 BDT" duration-ms="1182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillName -->
+        <test-method signature="fillPhoneNumber()[pri:3, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:04:52 BDT" name="fillPhoneNumber" finished-at="2022-11-02T21:04:53 BDT" duration-ms="1190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillPhoneNumber -->
+        <test-method signature="fillEmail()[pri:4, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:04:53 BDT" name="fillEmail" finished-at="2022-11-02T21:04:54 BDT" duration-ms="1181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillEmail -->
+        <test-method signature="clickOnStateContainer()[pri:5, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:04:54 BDT" name="clickOnStateContainer" finished-at="2022-11-02T21:04:56 BDT" duration-ms="1155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnStateContainer -->
+        <test-method signature="selectState()[pri:6, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:04:56 BDT" name="selectState" finished-at="2022-11-02T21:04:57 BDT" duration-ms="1077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectState -->
+        <test-method signature="clickOnArea()[pri:7, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:04:57 BDT" name="clickOnArea" finished-at="2022-11-02T21:04:58 BDT" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnArea -->
+        <test-method signature="selectArea()[pri:8, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:04:58 BDT" name="selectArea" finished-at="2022-11-02T21:04:59 BDT" duration-ms="1078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectArea -->
+        <test-method signature="fillBillingAddrees()[pri:9, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:04:59 BDT" name="fillBillingAddrees" finished-at="2022-11-02T21:05:00 BDT" duration-ms="1194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillBillingAddrees -->
+        <test-method signature="fillOrderComments()[pri:10, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:05:00 BDT" name="fillOrderComments" finished-at="2022-11-02T21:05:04 BDT" duration-ms="3436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillOrderComments -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.ProvideInformations@536dbea0]" started-at="2022-11-02T21:05:04 BDT" name="afterClass" finished-at="2022-11-02T21:05:04 BDT" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.ProvideInformations -->
+      <class name="tests.SelectBook">
+        <test-method is-config="true" signature="start()[pri:0, instance:tests.SelectBook@222a59e6]" started-at="2022-11-02T21:03:52 BDT" name="start" finished-at="2022-11-02T21:03:56 BDT" duration-ms="3362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.SelectBook@222a59e6]" started-at="2022-11-02T21:03:56 BDT" name="startUrl" finished-at="2022-11-02T21:03:59 BDT" duration-ms="3604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="closePopUp()[pri:0, instance:tests.SelectBook@222a59e6]" started-at="2022-11-02T21:03:59 BDT" name="closePopUp" finished-at="2022-11-02T21:04:06 BDT" duration-ms="6306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePopUp -->
+        <test-method signature="clickOnlakhok()[pri:1, instance:tests.SelectBook@222a59e6]" started-at="2022-11-02T21:04:06 BDT" name="clickOnlakhok" finished-at="2022-11-02T21:04:11 BDT" duration-ms="5215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnlakhok -->
+        <test-method signature="selectNextPage()[pri:2, instance:tests.SelectBook@222a59e6]" started-at="2022-11-02T21:04:11 BDT" name="selectNextPage" finished-at="2022-11-02T21:04:16 BDT" duration-ms="5065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectNextPage -->
+        <test-method signature="selectGeneralBooks()[pri:3, instance:tests.SelectBook@222a59e6]" started-at="2022-11-02T21:04:16 BDT" name="selectGeneralBooks" finished-at="2022-11-02T21:04:22 BDT" duration-ms="6177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectGeneralBooks -->
+        <test-method signature="viewAnyBookDetails()[pri:4, instance:tests.SelectBook@222a59e6]" started-at="2022-11-02T21:04:22 BDT" name="viewAnyBookDetails" finished-at="2022-11-02T21:04:36 BDT" duration-ms="13973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewAnyBookDetails -->
+        <test-method signature="clickOnOrder()[pri:5, instance:tests.SelectBook@222a59e6]" started-at="2022-11-02T21:04:36 BDT" name="clickOnOrder" finished-at="2022-11-02T21:04:41 BDT" duration-ms="4379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnOrder -->
+        <test-method signature="clickOnorderShoponnoKorun()[pri:6, instance:tests.SelectBook@222a59e6]" started-at="2022-11-02T21:04:41 BDT" name="clickOnorderShoponnoKorun" finished-at="2022-11-02T21:04:48 BDT" duration-ms="7530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnorderShoponnoKorun -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.SelectBook@222a59e6]" started-at="2022-11-02T21:04:48 BDT" name="afterClass" finished-at="2022-11-02T21:04:49 BDT" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.SelectBook@222a59e6]" started-at="2022-11-02T21:05:04 BDT" name="close" finished-at="2022-11-02T21:05:04 BDT" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.SelectBook -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
